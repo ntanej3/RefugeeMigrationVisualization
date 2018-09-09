@@ -1,10 +1,10 @@
-# Visualisation-on-Google-Earth
+# Refugee migration visualisation on Google Earth
 
-#### Title: 
-*Visualtion of refugee data on Google Earth with R*
 
-#### Objective: 
-*Visualisation of refugee data of different countries on Google Earth according to their respective refugee population*
+#### How to visualize
+Load [this](https://github.com/ntanej3/RefugeeMigrationVisualization/raw/master/scale_of_migration_of_refugee_population.kmz) KMZ file on Google Earth Web or Desktop App
+
+![scale_of_migration_of_refugee_population](https://github.com/ntanej3/RefugeeMigrationVisualization/raw/master/scale_of_migration_of_refugee_population.png)
 
 #### Data source:
 https://en.m.wikipedia.org/wiki/List_of_countries_by_refugee_population#By_country_of_origin
@@ -12,4 +12,5 @@ https://en.m.wikipedia.org/wiki/List_of_countries_by_refugee_population#By_count
 #### Packages Used: 
 *XML, RCurl*
 
-#### How to run: 
+
+
