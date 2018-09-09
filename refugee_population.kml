@@ -1,0 +1,1508 @@
+<?xml version="1.0"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id.CIA.Codes="AF">
+      <name>AFGHANISTAN</name>
+      <description>AFGHANISTAN
+ Refugee Population: 205558
+ Refugees per 1,000 inhabitants: 7.14</description>
+      <Point>
+        <coordinates>33,65</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AL">
+      <name>ALBANIA</name>
+      <description>ALBANIA
+ Refugee Population: 154
+ Refugees per 1,000 inhabitants: 0.05</description>
+      <Point>
+        <coordinates>41,20</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AG">
+      <name>ALGERIA</name>
+      <description>ALGERIA
+ Refugee Population: 94144
+ Refugees per 1,000 inhabitants: 2.42</description>
+      <Point>
+        <coordinates>28,3</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AO">
+      <name>ANGOLA</name>
+      <description>ANGOLA
+ Refugee Population: 15572
+ Refugees per 1,000 inhabitants: 0.64</description>
+      <Point>
+        <coordinates>-12.5,18.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AR">
+      <name>ARGENTINA</name>
+      <description>ARGENTINA
+ Refugee Population: 3523
+ Refugees per 1,000 inhabitants: 0.08</description>
+      <Point>
+        <coordinates>-34,-64</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AM">
+      <name>ARMENIA</name>
+      <description>ARMENIA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 5.22</description>
+      <Point>
+        <coordinates>40,45</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AA">
+      <name>ARUBA</name>
+      <description>ARUBA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>12.5,-69.9667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AS">
+      <name>AUSTRALIA</name>
+      <description>AUSTRALIA
+ Refugee Population: 35582
+ Refugees per 1,000 inhabitants: 1.51</description>
+      <Point>
+        <coordinates>-27,133</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AU">
+      <name>AUSTRIA</name>
+      <description>AUSTRIA
+ Refugee Population: 60747
+ Refugees per 1,000 inhabitants: 7.13</description>
+      <Point>
+        <coordinates>47.3333,13.3333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AJ">
+      <name>AZERBAIJAN</name>
+      <description>AZERBAIJAN
+ Refugee Population: 1357
+ Refugees per 1,000 inhabitants: 0.14</description>
+      <Point>
+        <coordinates>40.5,47.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BA">
+      <name>BAHRAIN</name>
+      <description>BAHRAIN
+ Refugee Population: 277
+ Refugees per 1,000 inhabitants: 0.2</description>
+      <Point>
+        <coordinates>26,50.55</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BG">
+      <name>BANGLADESH</name>
+      <description>BANGLADESH
+ Refugee Population: 32975
+ Refugees per 1,000 inhabitants: 1.46</description>
+      <Point>
+        <coordinates>24,90</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BB">
+      <name>BARBADOS</name>
+      <description>BARBADOS
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>13.1667,-59.5333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BO">
+      <name>BELARUS</name>
+      <description>BELARUS
+ Refugee Population: 1369
+ Refugees per 1,000 inhabitants: 0.14</description>
+      <Point>
+        <coordinates>53,28</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BE">
+      <name>BELGIUM</name>
+      <description>BELGIUM
+ Refugee Population: 31115
+ Refugees per 1,000 inhabitants: 2.77</description>
+      <Point>
+        <coordinates>50.8333,4</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BH">
+      <name>BELIZE</name>
+      <description>BELIZE
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>17.25,-88.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BN">
+      <name>BENIN</name>
+      <description>BENIN
+ Refugee Population: 488
+ Refugees per 1,000 inhabitants: 0.05</description>
+      <Point>
+        <coordinates>9.5,2.25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BL">
+      <name>BOLIVIA</name>
+      <description>BOLIVIA
+ Refugee Population: 767
+ Refugees per 1,000 inhabitants: 0.07</description>
+      <Point>
+        <coordinates>-17,-65</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BK">
+      <name>BOSNIA AND HERZEGOVINA</name>
+      <description>BOSNIA AND HERZEGOVINA
+ Refugee Population: 6805
+ Refugees per 1,000 inhabitants: 1.78</description>
+      <Point>
+        <coordinates>44,18</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BC">
+      <name>BOTSWANA</name>
+      <description>BOTSWANA
+ Refugee Population: 2164
+ Refugees per 1,000 inhabitants: 0.97</description>
+      <Point>
+        <coordinates>-22,24</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BR">
+      <name>BRAZIL</name>
+      <description>BRAZIL
+ Refugee Population: 7762
+ Refugees per 1,000 inhabitants: 0.04</description>
+      <Point>
+        <coordinates>-10,-55</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="VI">
+      <name>BRITISH VIRGIN ISLANDS</name>
+      <description>BRITISH VIRGIN ISLANDS
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>18.5,-64.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BU">
+      <name>BULGARIA</name>
+      <description>BULGARIA
+ Refugee Population: 11046
+ Refugees per 1,000 inhabitants: 1.53</description>
+      <Point>
+        <coordinates>43,25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UV">
+      <name>BURKINA FASO</name>
+      <description>BURKINA FASO
+ Refugee Population: 34027
+ Refugees per 1,000 inhabitants: 1.93</description>
+      <Point>
+        <coordinates>13,-2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BY">
+      <name>BURUNDI</name>
+      <description>BURUNDI
+ Refugee Population: 54126
+ Refugees per 1,000 inhabitants: 5</description>
+      <Point>
+        <coordinates>-3.5,30</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CB">
+      <name>CAMBODIA</name>
+      <description>CAMBODIA
+ Refugee Population: 80
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>13,105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CM">
+      <name>CAMEROON</name>
+      <description>CAMEROON
+ Refugee Population: 288552
+ Refugees per 1,000 inhabitants: 13.27</description>
+      <Point>
+        <coordinates>6,12</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CA">
+      <name>CANADA</name>
+      <description>CANADA
+ Refugee Population: 149163
+ Refugees per 1,000 inhabitants: 4.19</description>
+      <Point>
+        <coordinates>60,-95</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CJ">
+      <name>CAYMAN ISLANDS</name>
+      <description>CAYMAN ISLANDS
+ Refugee Population: 6
+ Refugees per 1,000 inhabitants: 0.1</description>
+      <Point>
+        <coordinates>19.5,-80.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CT">
+      <name>CENTRAL AFRICAN REPUBLIC</name>
+      <description>CENTRAL AFRICAN REPUBLIC
+ Refugee Population: 7906
+ Refugees per 1,000 inhabitants: 1.65</description>
+      <Point>
+        <coordinates>7,21</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CD">
+      <name>CHAD</name>
+      <description>CHAD
+ Refugee Population: 420774
+ Refugees per 1,000 inhabitants: 30.97</description>
+      <Point>
+        <coordinates>15,19</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CI">
+      <name>CHILE</name>
+      <description>CHILE
+ Refugee Population: 1798
+ Refugees per 1,000 inhabitants: 0.1</description>
+      <Point>
+        <coordinates>-30,-71</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CH">
+      <name>CHINA</name>
+      <description>CHINA
+ Refugee Population: 301057
+ Refugees per 1,000 inhabitants: 0.22</description>
+      <Point>
+        <coordinates>35,105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CO">
+      <name>COLOMBIA</name>
+      <description>COLOMBIA
+ Refugee Population: 219
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>4,-72</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CS">
+      <name>COSTA RICA</name>
+      <description>COSTA RICA
+ Refugee Population: 3475
+ Refugees per 1,000 inhabitants: 0.73</description>
+      <Point>
+        <coordinates>10,-84</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="HR">
+      <name>CROATIA</name>
+      <description>CROATIA
+ Refugee Population: 669
+ Refugees per 1,000 inhabitants: 0.17</description>
+      <Point>
+        <coordinates>45.1667,15.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CU">
+      <name>CUBA</name>
+      <description>CUBA
+ Refugee Population: 313
+ Refugees per 1,000 inhabitants: 0.03</description>
+      <Point>
+        <coordinates>21.5,-80</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CY">
+      <name>CYPRUS</name>
+      <description>CYPRUS
+ Refugee Population: 5763
+ Refugees per 1,000 inhabitants: 4.99</description>
+      <Point>
+        <coordinates>35,33</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="EZ">
+      <name>CZECH REPUBLIC</name>
+      <description>CZECH REPUBLIC
+ Refugee Population: 3137
+ Refugees per 1,000 inhabitants: 0.3</description>
+      <Point>
+        <coordinates>49.75,15.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="DA">
+      <name>DENMARK</name>
+      <description>DENMARK
+ Refugee Population: 17785
+ Refugees per 1,000 inhabitants: 3.15</description>
+      <Point>
+        <coordinates>56,10</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="DJ">
+      <name>DJIBOUTI</name>
+      <description>DJIBOUTI
+ Refugee Population: 14787
+ Refugees per 1,000 inhabitants: 16.88</description>
+      <Point>
+        <coordinates>11.5,43</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="DR">
+      <name>DOMINICAN REPUBLIC</name>
+      <description>DOMINICAN REPUBLIC
+ Refugee Population: 609
+ Refugees per 1,000 inhabitants: 0.06</description>
+      <Point>
+        <coordinates>19,-70.6667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="EC">
+      <name>ECUADOR</name>
+      <description>ECUADOR
+ Refugee Population: 53378
+ Refugees per 1,000 inhabitants: 7.65</description>
+      <Point>
+        <coordinates>-2,-77.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="EG">
+      <name>EGYPT</name>
+      <description>EGYPT
+ Refugee Population: 226344
+ Refugees per 1,000 inhabitants: 2.53</description>
+      <Point>
+        <coordinates>27,30</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ES">
+      <name>EL SALVADOR</name>
+      <description>EL SALVADOR
+ Refugee Population: 48
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>13.8333,-88.9167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ER">
+      <name>ERITREA</name>
+      <description>ERITREA
+ Refugee Population: 2944
+ Refugees per 1,000 inhabitants: 0.58</description>
+      <Point>
+        <coordinates>15,39</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="EN">
+      <name>ESTONIA</name>
+      <description>ESTONIA
+ Refugee Population: 117
+ Refugees per 1,000 inhabitants: 0.09</description>
+      <Point>
+        <coordinates>59,26</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ET">
+      <name>ETHIOPIA</name>
+      <description>ETHIOPIA
+ Refugee Population: 702467
+ Refugees per 1,000 inhabitants: 7.24</description>
+      <Point>
+        <coordinates>8,38</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="FJ">
+      <name>FIJI</name>
+      <description>FIJI
+ Refugee Population: 12
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>-18,175</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="FI">
+      <name>FINLAND</name>
+      <description>FINLAND
+ Refugee Population: 11798
+ Refugees per 1,000 inhabitants: 2.15</description>
+      <Point>
+        <coordinates>64,26</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="FR">
+      <name>FRANCE</name>
+      <description>FRANCE
+ Refugee Population: 264972
+ Refugees per 1,000 inhabitants: 4.13</description>
+      <Point>
+        <coordinates>46,2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GB">
+      <name>GABON</name>
+      <description>GABON
+ Refugee Population: 1008
+ Refugees per 1,000 inhabitants: 0.6</description>
+      <Point>
+        <coordinates>-1,11.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GG">
+      <name>GEORGIA</name>
+      <description>GEORGIA
+ Refugee Population: 1060
+ Refugees per 1,000 inhabitants: 0.41</description>
+      <Point>
+        <coordinates>42,43.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GM">
+      <name>GERMANY</name>
+      <description>GERMANY
+ Refugee Population: 250299
+ Refugees per 1,000 inhabitants: 3.1</description>
+      <Point>
+        <coordinates>51,9</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GH">
+      <name>GHANA</name>
+      <description>GHANA
+ Refugee Population: 18476
+ Refugees per 1,000 inhabitants: 0.69</description>
+      <Point>
+        <coordinates>8,-2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GR">
+      <name>GREECE</name>
+      <description>GREECE
+ Refugee Population: 7304
+ Refugees per 1,000 inhabitants: 0.75</description>
+      <Point>
+        <coordinates>39,22</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GJ">
+      <name>GRENADA</name>
+      <description>GRENADA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>12.1167,-61.6667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GT">
+      <name>GUATEMALA</name>
+      <description>GUATEMALA
+ Refugee Population: 202
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>15.5,-90.25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GV">
+      <name>GUINEA</name>
+      <description>GUINEA
+ Refugee Population: 8704
+ Refugees per 1,000 inhabitants: 0.71</description>
+      <Point>
+        <coordinates>11,-10</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PU">
+      <name>GUINEA-BISSAU</name>
+      <description>GUINEA-BISSAU
+ Refugee Population: 8684
+ Refugees per 1,000 inhabitants: 4.82</description>
+      <Point>
+        <coordinates>12,-15</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="GY">
+      <name>GUYANA</name>
+      <description>GUYANA
+ Refugee Population: 11
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>5,-59</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="HA">
+      <name>HAITI</name>
+      <description>HAITI
+ Refugee Population: 5
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>19,-72.4167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="HO">
+      <name>HONDURAS</name>
+      <description>HONDURAS
+ Refugee Population: 23
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>15,-86.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="HK">
+      <name>HONG KONG</name>
+      <description>HONG KONG
+ Refugee Population: 151
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>22.25,114.1667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="HU">
+      <name>HUNGARY</name>
+      <description>HUNGARY
+ Refugee Population: 4192
+ Refugees per 1,000 inhabitants: 0.42</description>
+      <Point>
+        <coordinates>47,20</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IC">
+      <name>ICELAND</name>
+      <description>ICELAND
+ Refugee Population: 104
+ Refugees per 1,000 inhabitants: 0.32</description>
+      <Point>
+        <coordinates>65,-18</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IN">
+      <name>INDIA</name>
+      <description>INDIA
+ Refugee Population: 200383
+ Refugees per 1,000 inhabitants: 0.15</description>
+      <Point>
+        <coordinates>20,77</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ID">
+      <name>INDONESIA</name>
+      <description>INDONESIA
+ Refugee Population: 5277
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>-5,120</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IR">
+      <name>IRAN</name>
+      <description>IRAN
+ Refugee Population: 979441
+ Refugees per 1,000 inhabitants: 12.53</description>
+      <Point>
+        <coordinates>32,53</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IZ">
+      <name>IRAQ</name>
+      <description>IRAQ
+ Refugee Population: 288035
+ Refugees per 1,000 inhabitants: 8.17</description>
+      <Point>
+        <coordinates>33,44</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="EI">
+      <name>IRELAND</name>
+      <description>IRELAND
+ Refugee Population: 5853
+ Refugees per 1,000 inhabitants: 1.25</description>
+      <Point>
+        <coordinates>53,-8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IS">
+      <name>ISRAEL</name>
+      <description>ISRAEL
+ Refugee Population: 361
+ Refugees per 1,000 inhabitants: 4.85</description>
+      <Point>
+        <coordinates>31.5,34.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="IT">
+      <name>ITALY</name>
+      <description>ITALY
+ Refugee Population: 93715
+ Refugees per 1,000 inhabitants: 1.57</description>
+      <Point>
+        <coordinates>42.8333,12.8333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="JM">
+      <name>JAMAICA</name>
+      <description>JAMAICA
+ Refugee Population: 15
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>18.25,-77.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="JA">
+      <name>JAPAN</name>
+      <description>JAPAN
+ Refugee Population: 2419
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>36,138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="JO">
+      <name>JORDAN</name>
+      <description>JORDAN
+ Refugee Population: 664102
+ Refugees per 1,000 inhabitants: 89.55</description>
+      <Point>
+        <coordinates>31,36</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="KZ">
+      <name>KAZAKHSTAN</name>
+      <description>KAZAKHSTAN
+ Refugee Population: 662
+ Refugees per 1,000 inhabitants: 0.04</description>
+      <Point>
+        <coordinates>48,68</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="KE">
+      <name>KENYA</name>
+      <description>KENYA
+ Refugee Population: 552272
+ Refugees per 1,000 inhabitants: 12.31</description>
+      <Point>
+        <coordinates>1,38</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="KU">
+      <name>KUWAIT</name>
+      <description>KUWAIT
+ Refugee Population: 593
+ Refugees per 1,000 inhabitants: 0.16</description>
+      <Point>
+        <coordinates>29.3375,47.6581</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="KG">
+      <name>KYRGYZSTAN</name>
+      <description>KYRGYZSTAN
+ Refugee Population: 433
+ Refugees per 1,000 inhabitants: 0.07</description>
+      <Point>
+        <coordinates>41,75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LG">
+      <name>LATVIA</name>
+      <description>LATVIA
+ Refugee Population: 195
+ Refugees per 1,000 inhabitants: 0.1</description>
+      <Point>
+        <coordinates>57,25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LE">
+      <name>LEBANON</name>
+      <description>LEBANON
+ Refugee Population: 1172388
+ Refugees per 1,000 inhabitants: 208.91</description>
+      <Point>
+        <coordinates>33.8333,35.8333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LT">
+      <name>LESOTHO</name>
+      <description>LESOTHO
+ Refugee Population: 44
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>-29.5,28.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LI">
+      <name>LIBERIA</name>
+      <description>LIBERIA
+ Refugee Population: 38904
+ Refugees per 1,000 inhabitants: 8.85</description>
+      <Point>
+        <coordinates>6.5,-9.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LY">
+      <name>LIBYA</name>
+      <description>LIBYA
+ Refugee Population: 27948
+ Refugees per 1,000 inhabitants: 4.47</description>
+      <Point>
+        <coordinates>25,17</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LS">
+      <name>LIECHTENSTEIN</name>
+      <description>LIECHTENSTEIN
+ Refugee Population: 107
+ Refugees per 1,000 inhabitants: 2.89</description>
+      <Point>
+        <coordinates>47.1667,9.5333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LH">
+      <name>LITHUANIA</name>
+      <description>LITHUANIA
+ Refugee Population: 1055
+ Refugees per 1,000 inhabitants: 0.36</description>
+      <Point>
+        <coordinates>56,24</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LU">
+      <name>LUXEMBOURG</name>
+      <description>LUXEMBOURG
+ Refugee Population: 1192
+ Refugees per 1,000 inhabitants: 2.14</description>
+      <Point>
+        <coordinates>49.75,6.1667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MK">
+      <name>MACEDONIA</name>
+      <description>MACEDONIA
+ Refugee Population: 584
+ Refugees per 1,000 inhabitants: 0.4</description>
+      <Point>
+        <coordinates>41.8333,22</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MA">
+      <name>MADAGASCAR</name>
+      <description>MADAGASCAR
+ Refugee Population: 10
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>-20,47</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MI">
+      <name>MALAWI</name>
+      <description>MALAWI
+ Refugee Population: 8963
+ Refugees per 1,000 inhabitants: 0.54</description>
+      <Point>
+        <coordinates>-13.5,34</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MY">
+      <name>MALAYSIA</name>
+      <description>MALAYSIA
+ Refugee Population: 97385
+ Refugees per 1,000 inhabitants: 3.26</description>
+      <Point>
+        <coordinates>2.5,112.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ML">
+      <name>MALI</name>
+      <description>MALI
+ Refugee Population: 14970
+ Refugees per 1,000 inhabitants: 0.88</description>
+      <Point>
+        <coordinates>17,-4</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MT">
+      <name>MALTA</name>
+      <description>MALTA
+ Refugee Population: 6095
+ Refugees per 1,000 inhabitants: 14.58</description>
+      <Point>
+        <coordinates>35.8333,14.5833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MR">
+      <name>MAURITANIA</name>
+      <description>MAURITANIA
+ Refugee Population: 50851
+ Refugees per 1,000 inhabitants: 19.36</description>
+      <Point>
+        <coordinates>20,-12</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MX">
+      <name>MEXICO</name>
+      <description>MEXICO
+ Refugee Population: 2158
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>23,-102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MD">
+      <name>MOLDOVA</name>
+      <description>MOLDOVA
+ Refugee Population: 389
+ Refugees per 1,000 inhabitants: 0.1</description>
+      <Point>
+        <coordinates>47,29</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MN">
+      <name>MONACO</name>
+      <description>MONACO
+ Refugee Population: 33
+ Refugees per 1,000 inhabitants: 0.87</description>
+      <Point>
+        <coordinates>43.7333,7.4</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MG">
+      <name>MONGOLIA</name>
+      <description>MONGOLIA
+ Refugee Population: 11
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>46,105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MJ">
+      <name>MONTENEGRO</name>
+      <description>MONTENEGRO
+ Refugee Population: 6203
+ Refugees per 1,000 inhabitants: 9.92</description>
+      <Point>
+        <coordinates>42,19</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MO">
+      <name>MOROCCO</name>
+      <description>MOROCCO
+ Refugee Population: 2144
+ Refugees per 1,000 inhabitants: 0.06</description>
+      <Point>
+        <coordinates>32,-5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MZ">
+      <name>MOZAMBIQUE</name>
+      <description>MOZAMBIQUE
+ Refugee Population: 4552
+ Refugees per 1,000 inhabitants: 0.17</description>
+      <Point>
+        <coordinates>-18.25,35</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="WA">
+      <name>NAMIBIA</name>
+      <description>NAMIBIA
+ Refugee Population: 1659
+ Refugees per 1,000 inhabitants: 0.69</description>
+      <Point>
+        <coordinates>-22,17</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NR">
+      <name>NAURU</name>
+      <description>NAURU
+ Refugee Population: 506
+ Refugees per 1,000 inhabitants: 50.6</description>
+      <Point>
+        <coordinates>-0.5333,166.9167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NP">
+      <name>NEPAL</name>
+      <description>NEPAL
+ Refugee Population: 36287
+ Refugees per 1,000 inhabitants: 1.29</description>
+      <Point>
+        <coordinates>28,84</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NL">
+      <name>NETHERLANDS</name>
+      <description>NETHERLANDS
+ Refugee Population: 82494
+ Refugees per 1,000 inhabitants: 4.89</description>
+      <Point>
+        <coordinates>52.5,5.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NZ">
+      <name>NEW ZEALAND</name>
+      <description>NEW ZEALAND
+ Refugee Population: 1349
+ Refugees per 1,000 inhabitants: 0.3</description>
+      <Point>
+        <coordinates>-41,174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NU">
+      <name>NICARAGUA</name>
+      <description>NICARAGUA
+ Refugee Population: 361
+ Refugees per 1,000 inhabitants: 0.06</description>
+      <Point>
+        <coordinates>13,-85</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NG">
+      <name>NIGER</name>
+      <description>NIGER
+ Refugee Population: 82064
+ Refugees per 1,000 inhabitants: 4.29</description>
+      <Point>
+        <coordinates>16,8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NI">
+      <name>NIGERIA</name>
+      <description>NIGERIA
+ Refugee Population: 1279
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>10,8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NO">
+      <name>NORWAY</name>
+      <description>NORWAY
+ Refugee Population: 47043
+ Refugees per 1,000 inhabitants: 9.14</description>
+      <Point>
+        <coordinates>62,10</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="MU">
+      <name>OMAN</name>
+      <description>OMAN
+ Refugee Population: 122
+ Refugees per 1,000 inhabitants: 0.03</description>
+      <Point>
+        <coordinates>21,57</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PK">
+      <name>PAKISTAN</name>
+      <description>PAKISTAN
+ Refugee Population: 1540854
+ Refugees per 1,000 inhabitants: 8.33</description>
+      <Point>
+        <coordinates>30,70</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PS">
+      <name>PALAU</name>
+      <description>PALAU
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.05</description>
+      <Point>
+        <coordinates>7.5,134.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PM">
+      <name>PANAMA</name>
+      <description>PANAMA
+ Refugee Population: 2303
+ Refugees per 1,000 inhabitants: 4.47</description>
+      <Point>
+        <coordinates>9,-80</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PP">
+      <name>PAPUA NEW GUINEA</name>
+      <description>PAPUA NEW GUINEA
+ Refugee Population: 4929
+ Refugees per 1,000 inhabitants: 1.27</description>
+      <Point>
+        <coordinates>-6,147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PA">
+      <name>PARAGUAY</name>
+      <description>PARAGUAY
+ Refugee Population: 161
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>-23,-58</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PE">
+      <name>PERU</name>
+      <description>PERU
+ Refugee Population: 1407
+ Refugees per 1,000 inhabitants: 0.05</description>
+      <Point>
+        <coordinates>-10,-76</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="RP">
+      <name>PHILIPPINES</name>
+      <description>PHILIPPINES
+ Refugee Population: 254
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>13,122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PL">
+      <name>POLAND</name>
+      <description>POLAND
+ Refugee Population: 15741
+ Refugees per 1,000 inhabitants: 0.41</description>
+      <Point>
+        <coordinates>52,20</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="PO">
+      <name>PORTUGAL</name>
+      <description>PORTUGAL
+ Refugee Population: 699
+ Refugees per 1,000 inhabitants: 0.07</description>
+      <Point>
+        <coordinates>39.5,-8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="QA">
+      <name>QATAR</name>
+      <description>QATAR
+ Refugee Population: 133
+ Refugees per 1,000 inhabitants: 0.06</description>
+      <Point>
+        <coordinates>25.5,51.25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="RO">
+      <name>ROMANIA</name>
+      <description>ROMANIA
+ Refugee Population: 2426
+ Refugees per 1,000 inhabitants: 0.12</description>
+      <Point>
+        <coordinates>46,25</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="RS">
+      <name>RUSSIA</name>
+      <description>RUSSIA
+ Refugee Population: 315313
+ Refugees per 1,000 inhabitants: 2.2</description>
+      <Point>
+        <coordinates>60,100</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="RW">
+      <name>RWANDA</name>
+      <description>RWANDA
+ Refugee Population: 132743
+ Refugees per 1,000 inhabitants: 11.7</description>
+      <Point>
+        <coordinates>-2,30</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SC">
+      <name>SAINT KITTS AND NEVIS</name>
+      <description>SAINT KITTS AND NEVIS
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.02</description>
+      <Point>
+        <coordinates>17.3333,-62.75</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ST">
+      <name>SAINT LUCIA</name>
+      <description>SAINT LUCIA
+ Refugee Population: 2
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>13.8833,-61.1333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SA">
+      <name>SAUDI ARABIA</name>
+      <description>SAUDI ARABIA
+ Refugee Population: 184
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>25,45</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SG">
+      <name>SENEGAL</name>
+      <description>SENEGAL
+ Refugee Population: 14304
+ Refugees per 1,000 inhabitants: 0.97</description>
+      <Point>
+        <coordinates>14,-14</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SL">
+      <name>SIERRA LEONE</name>
+      <description>SIERRA LEONE
+ Refugee Population: 1371
+ Refugees per 1,000 inhabitants: 0.22</description>
+      <Point>
+        <coordinates>8.5,-11.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SN">
+      <name>SINGAPORE</name>
+      <description>SINGAPORE
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>1.3667,103.8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="LO">
+      <name>SLOVAKIA</name>
+      <description>SLOVAKIA
+ Refugee Population: 799
+ Refugees per 1,000 inhabitants: 0.15</description>
+      <Point>
+        <coordinates>48.6667,19.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SI">
+      <name>SLOVENIA</name>
+      <description>SLOVENIA
+ Refugee Population: 283
+ Refugees per 1,000 inhabitants: 0.14</description>
+      <Point>
+        <coordinates>46,15</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="BP">
+      <name>SOLOMON ISLANDS</name>
+      <description>SOLOMON ISLANDS
+ Refugee Population: 3
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>-8,159</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SO">
+      <name>SOMALIA</name>
+      <description>SOMALIA
+ Refugee Population: 3582
+ Refugees per 1,000 inhabitants: 0.34</description>
+      <Point>
+        <coordinates>10,49</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SF">
+      <name>SOUTH AFRICA</name>
+      <description>SOUTH AFRICA
+ Refugee Population: 114512
+ Refugees per 1,000 inhabitants: 2.12</description>
+      <Point>
+        <coordinates>-29,24</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SP">
+      <name>SPAIN</name>
+      <description>SPAIN
+ Refugee Population: 5798
+ Refugees per 1,000 inhabitants: 0.13</description>
+      <Point>
+        <coordinates>40,-4</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="CE">
+      <name>SRI LANKA</name>
+      <description>SRI LANKA
+ Refugee Population: 848
+ Refugees per 1,000 inhabitants: 0.04</description>
+      <Point>
+        <coordinates>7,81</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SU">
+      <name>SUDAN</name>
+      <description>SUDAN
+ Refugee Population: 322638
+ Refugees per 1,000 inhabitants: 9.05</description>
+      <Point>
+        <coordinates>15,30</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NS">
+      <name>SURINAME</name>
+      <description>SURINAME
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>4,-56</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="WZ">
+      <name>SWAZILAND</name>
+      <description>SWAZILAND
+ Refugee Population: 539
+ Refugees per 1,000 inhabitants: 0.42</description>
+      <Point>
+        <coordinates>-26.5,31.5</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SW">
+      <name>SWEDEN</name>
+      <description>SWEDEN
+ Refugee Population: 142207
+ Refugees per 1,000 inhabitants: 14.66</description>
+      <Point>
+        <coordinates>62,15</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SZ">
+      <name>SWITZERLAND</name>
+      <description>SWITZERLAND
+ Refugee Population: 69390
+ Refugees per 1,000 inhabitants: 8.45</description>
+      <Point>
+        <coordinates>47,8</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="SY">
+      <name>SYRIA</name>
+      <description>SYRIA
+ Refugee Population: 149200
+ Refugees per 1,000 inhabitants: 7.95</description>
+      <Point>
+        <coordinates>35,38</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TI">
+      <name>TAJIKISTAN</name>
+      <description>TAJIKISTAN
+ Refugee Population: 1782
+ Refugees per 1,000 inhabitants: 0.21</description>
+      <Point>
+        <coordinates>39,71</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TZ">
+      <name>TANZANIA</name>
+      <description>TANZANIA
+ Refugee Population: 159014
+ Refugees per 1,000 inhabitants: 3.07</description>
+      <Point>
+        <coordinates>-6,35</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TH">
+      <name>THAILAND</name>
+      <description>THAILAND
+ Refugee Population: 56947
+ Refugees per 1,000 inhabitants: 1.63</description>
+      <Point>
+        <coordinates>15,100</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TO">
+      <name>TOGO</name>
+      <description>TOGO
+ Refugee Population: 21877
+ Refugees per 1,000 inhabitants: 3.07</description>
+      <Point>
+        <coordinates>8,1.1667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TN">
+      <name>TONGA</name>
+      <description>TONGA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>-20,-175</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TD">
+      <name>TRINIDAD AND TOBAGO</name>
+      <description>TRINIDAD AND TOBAGO
+ Refugee Population: 121
+ Refugees per 1,000 inhabitants: 0.09</description>
+      <Point>
+        <coordinates>11,-61</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TS">
+      <name>TUNISIA</name>
+      <description>TUNISIA
+ Refugee Population: 824
+ Refugees per 1,000 inhabitants: 0.07</description>
+      <Point>
+        <coordinates>34,9</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TU">
+      <name>TURKEY</name>
+      <description>TURKEY
+ Refugee Population: 1838848
+ Refugees per 1,000 inhabitants: 23.72</description>
+      <Point>
+        <coordinates>39,35</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TX">
+      <name>TURKMENISTAN</name>
+      <description>TURKMENISTAN
+ Refugee Population: 27
+ Refugees per 1,000 inhabitants: 0.01</description>
+      <Point>
+        <coordinates>40,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="TK">
+      <name>TURKS AND CAICOS ISLANDS</name>
+      <description>TURKS AND CAICOS ISLANDS
+ Refugee Population: 4
+ Refugees per 1,000 inhabitants: 0.12</description>
+      <Point>
+        <coordinates>21.75,-71.5833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UG">
+      <name>UGANDA</name>
+      <description>UGANDA
+ Refugee Population: 428397
+ Refugees per 1,000 inhabitants: 11.34</description>
+      <Point>
+        <coordinates>1,32</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UP">
+      <name>UKRAINE</name>
+      <description>UKRAINE
+ Refugee Population: 3232
+ Refugees per 1,000 inhabitants: 0.07</description>
+      <Point>
+        <coordinates>49,32</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="AE">
+      <name>UNITED ARAB EMIRATES</name>
+      <description>UNITED ARAB EMIRATES
+ Refugee Population: 424
+ Refugees per 1,000 inhabitants: 0.05</description>
+      <Point>
+        <coordinates>24,54</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UK">
+      <name>UNITED KINGDOM</name>
+      <description>UNITED KINGDOM
+ Refugee Population: 117234
+ Refugees per 1,000 inhabitants: 1.82</description>
+      <Point>
+        <coordinates>54,-2</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="US">
+      <name>UNITED STATES</name>
+      <description>UNITED STATES
+ Refugee Population: 267222
+ Refugees per 1,000 inhabitants: 0.84</description>
+      <Point>
+        <coordinates>38,-97</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UY">
+      <name>URUGUAY</name>
+      <description>URUGUAY
+ Refugee Population: 289
+ Refugees per 1,000 inhabitants: 0.08</description>
+      <Point>
+        <coordinates>-33,-56</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="UZ">
+      <name>UZBEKISTAN</name>
+      <description>UZBEKISTAN
+ Refugee Population: 118
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>41,64</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="NH">
+      <name>VANUATU</name>
+      <description>VANUATU
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>-16,167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="VE">
+      <name>VENEZUELA</name>
+      <description>VENEZUELA
+ Refugee Population: 5647
+ Refugees per 1,000 inhabitants: 5.68</description>
+      <Point>
+        <coordinates>8,-66</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="VM">
+      <name>VIETNAM</name>
+      <description>VIETNAM
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+      <Point>
+        <coordinates>16,106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="YM">
+      <name>YEMEN</name>
+      <description>YEMEN
+ Refugee Population: 263047
+ Refugees per 1,000 inhabitants: 10.05</description>
+      <Point>
+        <coordinates>15,48</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ZA">
+      <name>ZAMBIA</name>
+      <description>ZAMBIA
+ Refugee Population: 25737
+ Refugees per 1,000 inhabitants: 1.64</description>
+      <Point>
+        <coordinates>-15,30</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id.CIA.Codes="ZI">
+      <name>ZIMBABWE</name>
+      <description>ZIMBABWE
+ Refugee Population: 6085
+ Refugees per 1,000 inhabitants: 0.4</description>
+      <Point>
+        <coordinates>-20,30</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
