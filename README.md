@@ -1,7 +1,9 @@
 # Refugee migration visualisation on Google Earth
 
+#### How to run analysis?
+Runing GoogleEarthVisualisation.R generates all the artifacts of visualization.
 
-#### How to visualize
+#### How to visualize?
 Load [this](https://github.com/ntanej3/RefugeeMigrationVisualization/raw/master/scale_of_migration_of_refugee_population.kmz) KMZ file on Google Earth Web or Desktop App
 
 ![scale_of_migration_of_refugee_population](https://github.com/ntanej3/RefugeeMigrationVisualization/raw/master/scale_of_migration_of_refugee_population.png)
